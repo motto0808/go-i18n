@@ -1,0 +1,132 @@
+[
+    {
+        "locale": "ja",
+        "key": "seconds-num",
+        "trans": "{0}秒",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ja",
+        "key": "minutes-num",
+        "trans": "{0}分",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ja",
+        "key": "hours-num",
+        "trans": "{0}時間",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ja",
+        "key": "days-num",
+        "trans": "{0}日",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ja",
+        "key": "weeks-num",
+        "trans": "{0}週間",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ja",
+        "key": "this-second",
+        "trans": "今"
+    },
+    {
+        "locale": "ja",
+        "key": "second-relative",
+        "trans": "{0}後"
+    },
+    {
+        "locale": "ja",
+        "key": "second-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "ja",
+        "key": "this-minute",
+        "trans": "現在"
+    },
+    {
+        "locale": "ja",
+        "key": "minute-relative",
+        "trans": "{0}後"
+    },
+    {
+        "locale": "ja",
+        "key": "minute-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "ja",
+        "key": "this-hour",
+        "trans": "1時間以内"
+    },
+    {
+        "locale": "ja",
+        "key": "hour-relative",
+        "trans": "{0}後"
+    },
+    {
+        "locale": "ja",
+        "key": "hour-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "ja",
+        "key": "this-day",
+        "trans": "今日"
+    },
+    {
+        "locale": "ja",
+        "key": "next-day",
+        "trans": "明日"
+    },
+    {
+        "locale": "ja",
+        "key": "last-day",
+        "trans": "昨日"
+    },
+    {
+        "locale": "ja",
+        "key": "day-relative",
+        "trans": "{0}後"
+    },
+    {
+        "locale": "ja",
+        "key": "day-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "ja",
+        "key": "this-week",
+        "trans": "今週"
+    },
+    {
+        "locale": "ja",
+        "key": "next-week",
+        "trans": "来週"
+    },
+    {
+        "locale": "ja",
+        "key": "last-week",
+        "trans": "先週"
+    },
+    {
+        "locale": "ja",
+        "key": "week-relative",
+        "trans": "{0}後"
+    },
+    {
+        "locale": "ja",
+        "key": "week-relative-neg",
+        "trans": "{0}前"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "locale": "ko",
+        "key": "seconds-num",
+        "trans": "{0}초",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ko",
+        "key": "minutes-num",
+        "trans": "{0}분",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ko",
+        "key": "hours-num",
+        "trans": "{0}시간",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ko",
+        "key": "days-num",
+        "trans": "{0}일",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ko",
+        "key": "weeks-num",
+        "trans": "{0}주",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ko",
+        "key": "this-second",
+        "trans": "지금"
+    },
+    {
+        "locale": "ko",
+        "key": "second-relative",
+        "trans": "{0} 후"
+    },
+    {
+        "locale": "ko",
+        "key": "second-relative-neg",
+        "trans": "{0} 전"
+    },
+    {
+        "locale": "ko",
+        "key": "this-minute",
+        "trans": "현재 분"
+    },
+    {
+        "locale": "ko",
+        "key": "minute-relative",
+        "trans": "{0} 후"
+    },
+    {
+        "locale": "ko",
+        "key": "minute-relative-neg",
+        "trans": "{0} 전"
+    },
+    {
+        "locale": "ko",
+        "key": "this-hour",
+        "trans": "현재 시간"
+    },
+    {
+        "locale": "ko",
+        "key": "hour-relative",
+        "trans": "{0} 후"
+    },
+    {
+        "locale": "ko",
+        "key": "hour-relative-neg",
+        "trans": "{0} 전"
+    },
+    {
+        "locale": "ko",
+        "key": "this-day",
+        "trans": "오늘"
+    },
+    {
+        "locale": "ko",
+        "key": "next-day",
+        "trans": "내일"
+    },
+    {
+        "locale": "ko",
+        "key": "last-day",
+        "trans": "어제"
+    },
+    {
+        "locale": "ko",
+        "key": "day-relative",
+        "trans": "{0} 후"
+    },
+    {
+        "locale": "ko",
+        "key": "day-relative-neg",
+        "trans": "{0} 전"
+    },
+    {
+        "locale": "ko",
+        "key": "this-week",
+        "trans": "이번 주"
+    },
+    {
+        "locale": "ko",
+        "key": "next-week",
+        "trans": "다음 주"
+    },
+    {
+        "locale": "ko",
+        "key": "last-week",
+        "trans": "지난주"
+    },
+    {
+        "locale": "ko",
+        "key": "week-relative",
+        "trans": "{0} 후"
+    },
+    {
+        "locale": "ko",
+        "key": "week-relative-neg",
+        "trans": "{0} 전"
+    }
+]

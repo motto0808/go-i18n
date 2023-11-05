@@ -1,0 +1,132 @@
+[
+    {
+        "locale": "th",
+        "key": "seconds-num",
+        "trans": "{0} วินาที",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "th",
+        "key": "minutes-num",
+        "trans": "{0} นาที",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "th",
+        "key": "hours-num",
+        "trans": "{0} ชั่วโมง",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "th",
+        "key": "days-num",
+        "trans": "{0} วัน",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "th",
+        "key": "weeks-num",
+        "trans": "{0} สัปดาห์",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "th",
+        "key": "this-second",
+        "trans": "ขณะนี้"
+    },
+    {
+        "locale": "th",
+        "key": "second-relative",
+        "trans": "ในอีก {0}"
+    },
+    {
+        "locale": "th",
+        "key": "second-relative-neg",
+        "trans": "{0}ที่ผ่านมา"
+    },
+    {
+        "locale": "th",
+        "key": "this-minute",
+        "trans": "นาทีนี้"
+    },
+    {
+        "locale": "th",
+        "key": "minute-relative",
+        "trans": "ในอีก {0}"
+    },
+    {
+        "locale": "th",
+        "key": "minute-relative-neg",
+        "trans": "{0}ที่ผ่านมา"
+    },
+    {
+        "locale": "th",
+        "key": "this-hour",
+        "trans": "ชั่วโมงนี้"
+    },
+    {
+        "locale": "th",
+        "key": "hour-relative",
+        "trans": "ในอีก {0}"
+    },
+    {
+        "locale": "th",
+        "key": "hour-relative-neg",
+        "trans": "{0}ที่ผ่านมา"
+    },
+    {
+        "locale": "th",
+        "key": "this-day",
+        "trans": "วันนี้"
+    },
+    {
+        "locale": "th",
+        "key": "next-day",
+        "trans": "พรุ่งนี้"
+    },
+    {
+        "locale": "th",
+        "key": "last-day",
+        "trans": "เมื่อวาน"
+    },
+    {
+        "locale": "th",
+        "key": "day-relative",
+        "trans": "ในอีก {0}"
+    },
+    {
+        "locale": "th",
+        "key": "day-relative-neg",
+        "trans": "{0}ที่ผ่านมา"
+    },
+    {
+        "locale": "th",
+        "key": "this-week",
+        "trans": "สัปดาห์นี้"
+    },
+    {
+        "locale": "th",
+        "key": "next-week",
+        "trans": "สัปดาห์หน้า"
+    },
+    {
+        "locale": "th",
+        "key": "last-week",
+        "trans": "สัปดาห์ที่แล้ว"
+    },
+    {
+        "locale": "th",
+        "key": "week-relative",
+        "trans": "ในอีก {0}"
+    },
+    {
+        "locale": "th",
+        "key": "week-relative-neg",
+        "trans": "{0}ที่ผ่านมา"
+    }
+]

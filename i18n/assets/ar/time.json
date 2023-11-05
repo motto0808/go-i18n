@@ -1,0 +1,317 @@
+[
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثواني",
+        "type": "Cardinal",
+        "rule": "Zero"
+    },
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثانية",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثانية",
+        "type": "Cardinal",
+        "rule": "Two"
+    },
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثوان",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثانية",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ar",
+        "key": "seconds-num",
+        "trans": "{0} ثانية",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقيقة",
+        "type": "Cardinal",
+        "rule": "Zero"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقيقة",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقيقة",
+        "type": "Cardinal",
+        "rule": "Two"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقائق",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقيقة",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ar",
+        "key": "minutes-num",
+        "trans": "{0} دقيقة",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعة",
+        "type": "Cardinal",
+        "rule": "Zero"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعة",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعاتين",
+        "type": "Cardinal",
+        "rule": "Two"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعات",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعة",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ar",
+        "key": "hours-num",
+        "trans": "{0} ساعة",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} يوم",
+        "type": "Cardinal",
+        "rule": "Zero"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} يوم",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} أيام",
+        "type": "Cardinal",
+        "rule": "Two"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} أيام",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} يوم",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ar",
+        "key": "days-num",
+        "trans": "{0} يوم",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسبوع",
+        "type": "Cardinal",
+        "rule": "Zero"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسبوع",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسابيع",
+        "type": "Cardinal",
+        "rule": "Two"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسابيع",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسبوعًا",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ar",
+        "key": "weeks-num",
+        "trans": "{0} أسبوعًا",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ar",
+        "key": "this-second",
+        "trans": "الآن"
+    },
+    {
+        "locale": "ar",
+        "key": "second-relative",
+        "trans": "{0} خلال"
+    },
+    {
+        "locale": "ar",
+        "key": "second-relative-neg",
+        "trans": "{0} قبل"
+    },
+    {
+        "locale": "ar",
+        "key": "this-minute",
+        "trans": "هذه الدقيقة"
+    },
+    {
+        "locale": "ar",
+        "key": "minute-relative",
+        "trans": "{0} خلال"
+    },
+    {
+        "locale": "ar",
+        "key": "minute-relative-neg",
+        "trans": "{0} قبل"
+    },
+    {
+        "locale": "ar",
+        "key": "this-hour",
+        "trans": "الساعة الحالية"
+    },
+    {
+        "locale": "ar",
+        "key": "next-hour",
+        "trans": "خلال ساعة واحدة"
+    },
+    {
+        "locale": "ar",
+        "key": "last-hour",
+        "trans": "قبل ساعة واحدة"
+    },
+    {
+        "locale": "ar",
+        "key": "hour-relative",
+        "trans": "{0} خلال"
+    },
+    {
+        "locale": "ar",
+        "key": "hour-relative-neg",
+        "trans": "{0} قبل"
+    },
+    {
+        "locale": "ar",
+        "key": "this-day",
+        "trans": "اليوم"
+    },
+    {
+        "locale": "ar",
+        "key": "next-day",
+        "trans": "غدًا"
+    },
+    {
+        "locale": "ar",
+        "key": "last-day",
+        "trans": "أمس"
+    },
+    {
+        "locale": "ar",
+        "key": "day-relative",
+        "trans": "{0} خلال"
+    },
+    {
+        "locale": "ar",
+        "key": "day-relative-neg",
+        "trans": "{0} قبل"
+    },
+    {
+        "locale": "ar",
+        "key": "this-week",
+        "trans": "هذا الأسبوع"
+    },
+    {
+        "locale": "ar",
+        "key": "next-week",
+        "trans": "الأسبوع القادم"
+    },
+    {
+        "locale": "ar",
+        "key": "last-week",
+        "trans": "الأسبوع الماضي"
+    },
+    {
+        "locale": "ar",
+        "key": "week-relative",
+        "trans": "{0} خلال"
+    },
+    {
+        "locale": "ar",
+        "key": "week-relative-neg",
+        "trans": "{0} قبل"
+    }
+]

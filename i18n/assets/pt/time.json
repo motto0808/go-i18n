@@ -1,0 +1,167 @@
+[
+    {
+        "locale": "pt",
+        "key": "seconds-num",
+        "trans": "{0} segundo",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "pt",
+        "key": "seconds-num",
+        "trans": "{0} segundos",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "pt",
+        "key": "minutes-num",
+        "trans": "{0} minuto",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "pt",
+        "key": "minutes-num",
+        "trans": "{0} minutos",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "pt",
+        "key": "hours-num",
+        "trans": "{0} hora",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "pt",
+        "key": "hours-num",
+        "trans": "{0} horas",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "pt",
+        "key": "days-num",
+        "trans": "{0} dia",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "pt",
+        "key": "days-num",
+        "trans": "{0} dias",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "pt",
+        "key": "weeks-num",
+        "trans": "{0} semana",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "pt",
+        "key": "weeks-num",
+        "trans": "{0} semanas",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "pt",
+        "key": "this-second",
+        "trans": "agora"
+    },
+    {
+        "locale": "pt",
+        "key": "second-relative",
+        "trans": "em {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "second-relative-neg",
+        "trans": "há {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "this-minute",
+        "trans": "este minuto"
+    },
+    {
+        "locale": "pt",
+        "key": "minute-relative",
+        "trans": "em {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "minute-relative-neg",
+        "trans": "há {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "this-hour",
+        "trans": "esta hora"
+    },
+    {
+        "locale": "pt",
+        "key": "hour-relative",
+        "trans": "em {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "hour-relative-neg",
+        "trans": "há {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "this-day",
+        "trans": "hoje"
+    },
+    {
+        "locale": "pt",
+        "key": "next-day",
+        "trans": "amanhã"
+    },
+    {
+        "locale": "pt",
+        "key": "last-day",
+        "trans": "ontem"
+    },
+    {
+        "locale": "pt",
+        "key": "day-relative",
+        "trans": "em {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "day-relative-neg",
+        "trans": "há {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "this-week",
+        "trans": "esta semana"
+    },
+    {
+        "locale": "pt",
+        "key": "next-week",
+        "trans": "próxima semana"
+    },
+    {
+        "locale": "pt",
+        "key": "last-week",
+        "trans": "semana pasada"
+    },
+    {
+        "locale": "pt",
+        "key": "week-relative",
+        "trans": "em {0}"
+    },
+    {
+        "locale": "pt",
+        "key": "week-relative-neg",
+        "trans": "há {0} ago"
+    }
+]

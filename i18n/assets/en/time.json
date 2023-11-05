@@ -1,0 +1,167 @@
+[
+    {
+        "locale": "en",
+        "key": "seconds-num",
+        "trans": "{0} second",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "en",
+        "key": "seconds-num",
+        "trans": "{0} seconds",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "en",
+        "key": "minutes-num",
+        "trans": "{0} minute",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "en",
+        "key": "minutes-num",
+        "trans": "{0} minutes",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "en",
+        "key": "hours-num",
+        "trans": "{0} hour",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "en",
+        "key": "hours-num",
+        "trans": "{0} hours",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "en",
+        "key": "days-num",
+        "trans": "{0} day",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "en",
+        "key": "days-num",
+        "trans": "{0} days",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "en",
+        "key": "weeks-num",
+        "trans": "{0} week",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "en",
+        "key": "weeks-num",
+        "trans": "{0} weeks",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "en",
+        "key": "this-second",
+        "trans": "now"
+    },
+    {
+        "locale": "en",
+        "key": "second-relative",
+        "trans": "in {0}"
+    },
+    {
+        "locale": "en",
+        "key": "second-relative-neg",
+        "trans": "{0} ago"
+    },
+    {
+        "locale": "en",
+        "key": "this-minute",
+        "trans": "this minute"
+    },
+    {
+        "locale": "en",
+        "key": "minute-relative",
+        "trans": "in {0}"
+    },
+    {
+        "locale": "en",
+        "key": "minute-relative-neg",
+        "trans": "{0} ago"
+    },
+    {
+        "locale": "en",
+        "key": "this-hour",
+        "trans": "this hour"
+    },
+    {
+        "locale": "en",
+        "key": "hour-relative",
+        "trans": "in {0}"
+    },
+    {
+        "locale": "en",
+        "key": "hour-relative-neg",
+        "trans": "{0} ago"
+    },
+    {
+        "locale": "en",
+        "key": "this-day",
+        "trans": "today"
+    },
+    {
+        "locale": "en",
+        "key": "next-day",
+        "trans": "tomorrow"
+    },
+    {
+        "locale": "en",
+        "key": "last-day",
+        "trans": "yesterday"
+    },
+    {
+        "locale": "en",
+        "key": "day-relative",
+        "trans": "in {0}"
+    },
+    {
+        "locale": "en",
+        "key": "day-relative-neg",
+        "trans": "{0} ago"
+    },
+    {
+        "locale": "en",
+        "key": "this-week",
+        "trans": "this week"
+    },
+    {
+        "locale": "en",
+        "key": "next-week",
+        "trans": "next week"
+    },
+    {
+        "locale": "en",
+        "key": "last-week",
+        "trans": "last week"
+    },
+    {
+        "locale": "en",
+        "key": "week-relative",
+        "trans": "in {0}"
+    },
+    {
+        "locale": "en",
+        "key": "week-relative-neg",
+        "trans": "{0} ago"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "locale": "ms",
+        "key": "seconds-num",
+        "trans": "{0} saat",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ms",
+        "key": "minutes-num",
+        "trans": "{0} minit",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ms",
+        "key": "hours-num",
+        "trans": "{0} jam",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ms",
+        "key": "days-num",
+        "trans": "{0} hari",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ms",
+        "key": "weeks-num",
+        "trans": "{0} minggu",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ms",
+        "key": "this-second",
+        "trans": "sekarang"
+    },
+    {
+        "locale": "ms",
+        "key": "second-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "ms",
+        "key": "second-relative-neg",
+        "trans": "{0} lalu"
+    },
+    {
+        "locale": "ms",
+        "key": "this-minute",
+        "trans": "pada minit ini"
+    },
+    {
+        "locale": "ms",
+        "key": "minute-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "ms",
+        "key": "minute-relative-neg",
+        "trans": "{0} lalu"
+    },
+    {
+        "locale": "ms",
+        "key": "this-hour",
+        "trans": "jam ini"
+    },
+    {
+        "locale": "ms",
+        "key": "hour-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "ms",
+        "key": "hour-relative-neg",
+        "trans": "{0} lalu"
+    },
+    {
+        "locale": "ms",
+        "key": "this-day",
+        "trans": "hari ini"
+    },
+    {
+        "locale": "ms",
+        "key": "next-day",
+        "trans": "esok"
+    },
+    {
+        "locale": "ms",
+        "key": "last-day",
+        "trans": "semalam"
+    },
+    {
+        "locale": "ms",
+        "key": "day-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "ms",
+        "key": "day-relative-neg",
+        "trans": "{0} lalu"
+    },
+    {
+        "locale": "ms",
+        "key": "this-week",
+        "trans": "minggu ini"
+    },
+    {
+        "locale": "ms",
+        "key": "next-week",
+        "trans": "minggu depan"
+    },
+    {
+        "locale": "ms",
+        "key": "last-week",
+        "trans": "minggu lalu"
+    },
+    {
+        "locale": "ms",
+        "key": "week-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "ms",
+        "key": "week-relative-neg",
+        "trans": "{0} lalu"
+    }
+]

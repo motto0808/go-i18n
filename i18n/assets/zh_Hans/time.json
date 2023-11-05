@@ -1,0 +1,133 @@
+[
+    {
+        "locale": "zh_Hans",
+        "key": "seconds-num",
+        "trans": "{0}秒",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "minutes-num",
+        "trans": "{0}分钟",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "hours-num",
+        "trans": "{0}小时",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "days-num",
+        "trans": "{0}天",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "weeks-num",
+        "trans": "{0}周",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "this-second",
+        "trans": "现在"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "second-relative",
+        "trans": "{0}后"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "second-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "this-minute",
+        "trans": "此刻"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "minute-relative",
+        "trans": "{0}后"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "minute-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "this-hour",
+        "trans": "此时"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "hour-relative",
+        "trans": "{0}后"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "hour-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "this-day",
+        "trans": "今天"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "next-day",
+        "trans": "明天"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "last-day",
+        "trans": "昨天"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "day-relative",
+        "trans": "{0}后"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "day-relative-neg",
+        "trans": "{0}前"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "this-week",
+        "trans": "本周"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "next-week",
+        "trans": "下周"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "last-week",
+        "trans": "上周"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "week-relative",
+        "trans": "{0}后"
+    },
+    {
+        "locale": "zh_Hans",
+        "key": "week-relative-neg",
+        "trans": "{0}前"
+    }
+  
+]

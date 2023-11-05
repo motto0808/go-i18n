@@ -1,0 +1,133 @@
+[
+    {
+        "locale": "id",
+        "key": "seconds-num",
+        "trans": "{0} detik",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "id",
+        "key": "minutes-num",
+        "trans": "{0} menit",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "id",
+        "key": "hours-num",
+        "trans": "{0} jam",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "id",
+        "key": "days-num",
+        "trans": "{0} hari",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "id",
+        "key": "weeks-num",
+        "trans": "{0} minggu",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "id",
+        "key": "this-second",
+        "trans": "sekarang"
+    },
+    {
+        "locale": "id",
+        "key": "second-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "id",
+        "key": "second-relative-neg",
+        "trans": "{0} yang lalu"
+    },
+    {
+        "locale": "id",
+        "key": "this-minute",
+        "trans": "menit ini"
+    },
+    {
+        "locale": "id",
+        "key": "minute-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "id",
+        "key": "minute-relative-neg",
+        "trans": "{0} yang lalu"
+    },
+    {
+        "locale": "id",
+        "key": "this-hour",
+        "trans": "jam ini"
+    },
+    {
+        "locale": "id",
+        "key": "hour-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "id",
+        "key": "hour-relative-neg",
+        "trans": "{0} yang lalu"
+    },
+    {
+        "locale": "id",
+        "key": "this-day",
+        "trans": "hari ini"
+    },
+    {
+        "locale": "id",
+        "key": "next-day",
+        "trans": "besok"
+    },
+    {
+        "locale": "id",
+        "key": "last-day",
+        "trans": "kemarin"
+    },
+    {
+        "locale": "id",
+        "key": "day-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "id",
+        "key": "day-relative-neg",
+        "trans": "{0} yang lalu"
+    },
+    {
+        "locale": "id",
+        "key": "this-week",
+        "trans": "minggu ini"
+    },
+    {
+        "locale": "id",
+        "key": "next-week",
+        "trans": "minggu depan"
+    },
+    {
+        "locale": "id",
+        "key": "last-week",
+        "trans": "minggu lalu"
+    },
+    {
+        "locale": "id",
+        "key": "week-relative",
+        "trans": "dalam {0}"
+    },
+    {
+        "locale": "id",
+        "key": "week-relative-neg",
+        "trans": "{0} yang lalu"
+    }
+  
+]

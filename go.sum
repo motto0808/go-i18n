@@ -1,0 +1,16 @@
+github.com/go-playground/ansi/v3 v3.0.0 h1:TXexAx1sXuL/N/cqV472ffRdkoiqPA3LeKMXCoz8t4Y=
+github.com/go-playground/ansi/v3 v3.0.0/go.mod h1:btm11Vjtjy20mZiJwufDvdVAVxjLuYFDu164b83ekBs=
+github.com/go-playground/assert v1.2.1 h1:ad06XqC+TOv0nJWnbULSlh3ehp5uLuQEojZY5Tq8RgI=
+github.com/go-playground/assert v1.2.1/go.mod h1:Lgy+k19nOB/wQG/fVSQ7rra5qYugmytMQqvQ2dgjWn8=
+github.com/go-playground/assert/v2 v2.0.1 h1:MsBgLAaY856+nPRTKrp3/OZK38U/wa0CcBYNjji3q3A=
+github.com/go-playground/assert/v2 v2.0.1/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
+github.com/go-playground/form/v4 v4.1.1 h1:1T9lGt3WRHuDwT5uwx7RYQZfxVwWZhF0DC1ovKyNnWY=
+github.com/go-playground/form/v4 v4.1.1/go.mod h1:q1a2BY+AQUUzhl6xA/6hBetay6dEIhMHjgvJiGo6K7U=
+github.com/go-playground/locales v0.14.1 h1:EWaQ/wswjilfKLTECiXz7Rh+3BjFhfDFKv/oXslEjJA=
+github.com/go-playground/locales v0.14.1/go.mod h1:hxrqLVvrK65+Rwrd5Fc6F2O76J/NuW9t0sjnWqG1slY=
+github.com/go-playground/pkg/v5 v5.2.0 h1:rjauo+ugKwbpX/wxGdhLQHMba2PMwtOXhB5HdV9l3Ow=
+github.com/go-playground/pkg/v5 v5.2.0/go.mod h1:4JbhbKhH362Z8RQ7XBVlvysNbGUNgiMVo2Iuyy36qhc=
+github.com/go-playground/pure/v5 v5.2.0 h1:W85ZUaptZQI9BaO9YOWTwY/CDXj4n4+BkNljB8qCYNM=
+github.com/go-playground/pure/v5 v5.2.0/go.mod h1:KgEpBJtFZXw5CInDCMKdYI+T89IOCsPXZ799qsVJbI8=
+github.com/go-playground/universal-translator v0.18.1 h1:Bcnm0ZwsGyWbCzImXv+pAJnYK9S473LQFuzCbDbfSFY=
+github.com/go-playground/universal-translator v0.18.1/go.mod h1:xekY+UJKNuX9WP91TpwSH2VMlDf28Uj24BCp08ZFTUY=

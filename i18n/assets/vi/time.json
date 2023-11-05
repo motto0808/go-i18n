@@ -1,0 +1,132 @@
+[
+    {
+        "locale": "vi",
+        "key": "seconds-num",
+        "trans": "{0} giây",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "vi",
+        "key": "minutes-num",
+        "trans": "{0} phút",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "vi",
+        "key": "hours-num",
+        "trans": "{0} giờ",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "vi",
+        "key": "days-num",
+        "trans": "{0} ngày",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "vi",
+        "key": "weeks-num",
+        "trans": "{0} tuần",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "vi",
+        "key": "this-second",
+        "trans": "bây giờ"
+    },
+    {
+        "locale": "vi",
+        "key": "second-relative",
+        "trans": "sau {0} nữa"
+    },
+    {
+        "locale": "vi",
+        "key": "second-relative-neg",
+        "trans": "{0} trước"
+    },
+    {
+        "locale": "vi",
+        "key": "this-minute",
+        "trans": "phút này"
+    },
+    {
+        "locale": "vi",
+        "key": "minute-relative",
+        "trans": "sau {0} nữa"
+    },
+    {
+        "locale": "vi",
+        "key": "minute-relative-neg",
+        "trans": "{0} trước"
+    },
+    {
+        "locale": "vi",
+        "key": "this-hour",
+        "trans": "giờ này"
+    },
+    {
+        "locale": "vi",
+        "key": "hour-relative",
+        "trans": "sau {0} nữa"
+    },
+    {
+        "locale": "vi",
+        "key": "hour-relative-neg",
+        "trans": "{0} trước"
+    },
+    {
+        "locale": "vi",
+        "key": "this-day",
+        "trans": "Hôm nay"
+    },
+    {
+        "locale": "vi",
+        "key": "next-day",
+        "trans": "Ngày mai"
+    },
+    {
+        "locale": "vi",
+        "key": "last-day",
+        "trans": "Hôm qua"
+    },
+    {
+        "locale": "vi",
+        "key": "day-relative",
+        "trans": "sau {0} nữa"
+    },
+    {
+        "locale": "vi",
+        "key": "day-relative-neg",
+        "trans": "{0} trước"
+    },
+    {
+        "locale": "vi",
+        "key": "this-week",
+        "trans": "tuần này"
+    },
+    {
+        "locale": "vi",
+        "key": "next-week",
+        "trans": "tuần sau"
+    },
+    {
+        "locale": "vi",
+        "key": "last-week",
+        "trans": "tuần trước"
+    },
+    {
+        "locale": "vi",
+        "key": "week-relative",
+        "trans": "sau {0} nữa"
+    },
+    {
+        "locale": "vi",
+        "key": "week-relative-neg",
+        "trans": "{0} trước"
+    }
+]

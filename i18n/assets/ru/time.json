@@ -1,0 +1,237 @@
+[
+    {
+        "locale": "ru",
+        "key": "seconds-num",
+        "trans": "{0} секунда",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ru",
+        "key": "seconds-num",
+        "trans": "{0} секунды",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ru",
+        "key": "seconds-num",
+        "trans": "{0} секунд",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ru",
+        "key": "seconds-num",
+        "trans": "{0} секунд",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ru",
+        "key": "minutes-num",
+        "trans": "{0} минута",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ru",
+        "key": "minutes-num",
+        "trans": "{0} минуты",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ru",
+        "key": "minutes-num",
+        "trans": "{0} минут",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ru",
+        "key": "minutes-num",
+        "trans": "{0} минут",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ru",
+        "key": "hours-num",
+        "trans": "{0} час",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ru",
+        "key": "hours-num",
+        "trans": "{0} часа",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ru",
+        "key": "hours-num",
+        "trans": "{0} часов",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ru",
+        "key": "hours-num",
+        "trans": "{0} часов",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ru",
+        "key": "days-num",
+        "trans": "{0} день",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ru",
+        "key": "days-num",
+        "trans": "{0} дня",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ru",
+        "key": "days-num",
+        "trans": "{0} дней",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ru",
+        "key": "days-num",
+        "trans": "{0} дней",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ru",
+        "key": "weeks-num",
+        "trans": "{0} неделя",
+        "type": "Cardinal",
+        "rule": "One"
+    },
+    {
+        "locale": "ru",
+        "key": "weeks-num",
+        "trans": "{0} недели",
+        "type": "Cardinal",
+        "rule": "Few"
+    },
+    {
+        "locale": "ru",
+        "key": "weeks-num",
+        "trans": "{0} недель",
+        "type": "Cardinal",
+        "rule": "Many"
+    },
+    {
+        "locale": "ru",
+        "key": "weeks-num",
+        "trans": "{0} недель",
+        "type": "Cardinal",
+        "rule": "Other"
+    },
+    {
+        "locale": "ru",
+        "key": "this-second",
+        "trans": "сейчас"
+    },
+    {
+        "locale": "ru",
+        "key": "second-relative",
+        "trans": "через {0}"
+    },
+    {
+        "locale": "ru",
+        "key": "second-relative-neg",
+        "trans": "{0} назад"
+    },
+    {
+        "locale": "ru",
+        "key": "this-minute",
+        "trans": "в эту минуту"
+    },
+    {
+        "locale": "ru",
+        "key": "minute-relative",
+        "trans": "через {0}"
+    },
+    {
+        "locale": "ru",
+        "key": "minute-relative-neg",
+        "trans": "{0} назад"
+    },
+    {
+        "locale": "ru",
+        "key": "this-hour",
+        "trans": "в этот час"
+    },
+    {
+        "locale": "ru",
+        "key": "hour-relative",
+        "trans": "через {0}"
+    },
+    {
+        "locale": "ru",
+        "key": "hour-relative-neg",
+        "trans": "{0} назад"
+    },
+    {
+        "locale": "ru",
+        "key": "this-day",
+        "trans": "сегодня"
+    },
+    {
+        "locale": "ru",
+        "key": "next-day",
+        "trans": "завтра"
+    },
+    {
+        "locale": "ru",
+        "key": "last-day",
+        "trans": "вчера"
+    },
+    {
+        "locale": "ru",
+        "key": "day-relative",
+        "trans": "через {0}"
+    },
+    {
+        "locale": "ru",
+        "key": "day-relative-neg",
+        "trans": "{0} назад"
+    },
+    {
+        "locale": "ru",
+        "key": "this-week",
+        "trans": "на этой неделе"
+    },
+    {
+        "locale": "ru",
+        "key": "next-week",
+        "trans": "на следующей неделе"
+    },
+    {
+        "locale": "ru",
+        "key": "last-week",
+        "trans": "на прошлой неделе"
+    },
+    {
+        "locale": "ru",
+        "key": "week-relative",
+        "trans": "через {0}"
+    },
+    {
+        "locale": "ru",
+        "key": "week-relative-neg",
+        "trans": "{0} назад"
+    }
+]
